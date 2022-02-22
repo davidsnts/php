@@ -1,0 +1,26 @@
+Zxc2019@01
+
+
+criar um repositorio local git init
+
+add um repositorio remoto 
+
+git remote add origin https://endereço
+
+atualizar arquivos para o repo remoto
+
+git add --all
+
+git commit -m 'mensagem'
+
+git push origin master
+
+para puxar para o aruqivo local usa-se 
+
+git pull origin master
+
+
+
+chave token
+
+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
